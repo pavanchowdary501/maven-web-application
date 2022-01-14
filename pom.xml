@@ -17,11 +17,11 @@
 			<name>pavan snapshot nexus repository</name>
 			<url>http://52.66.245.101:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
-	</distributionManagement>
+	</distributionManagement> -->
 	
 	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Project</description> -->
+	<description>Maven Web Project for Java Project</description> 
 
 	<organization>
 		<name>Mithun Technologies</name>
