@@ -5,19 +5,8 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1-SNAPSHOT</version>
-	<<!-- <distributionManagement> 
-	<repository>
-		<id>nexus</id>
-		<name>pavan releses nexus repository</name>
-		<url>http://52.66.245.101:8081/repository/maven-releases/</url>
-	</repository>
-		<snapshotRepository>
-			<id>nexus</id>
-			<name>pavan snapshot nexus repository</name>
-			<url>http://52.66.245.101:8081/repository/maven-snapshots/</url>
-		</snapshotRepository>
-	</distributionManagement> -->
+	<<!-- <version>0.0.1-SNAPSHOT</version> -->
+
 	
 	<name>maven-web-application</name>
 
