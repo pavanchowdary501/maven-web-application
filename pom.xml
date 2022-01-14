@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<distributionManagement> 
+	<<!-- <distributionManagement> 
 	<repository>
 		<id>nexus</id>
 		<name>pavan releses nexus repository</name>
@@ -21,7 +21,7 @@
 	
 	<name>maven-web-application</name>
 
-	<description>Maven Web Project for Java Project</description>
+	<description>Maven Web Project for Java Project</description> -->
 
 	<organization>
 		<name>Mithun Technologies</name>
@@ -110,14 +110,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-release/</url>
+	      <name>pavan releses nexus repositor</name>
+	      <url>http://52.66.245.101:8081/repository/maven-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.255.174.111:8081/repository/flipkart-snapshot/</url>
+	      <name>pavan snapshot nexus repository </name>
+	      <url>http://52.66.245.101:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
