@@ -100,14 +100,16 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Wallmart Releases Nexus Repository</name>
-	      <url>http://18.237.170.76:8081/repository/wallmart-relese/</url>
+	      <url>http://18.237.170.76:8081/repository/pipelineWalmart/</url>
+	     <!-- <url>http://18.237.170.76:8081/repository/wallmart-relese/</url> -->
 		    
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Wallmart Snapchot Repo  </name>
-	      <url>http://18.237.170.76:8081/repository/wallmart-snapshot/</url>
+		    <url>http://18.237.170.76:8081/repository/piplineWalmartSnapshot/</url>
+	     <!-- <url>http://18.237.170.76:8081/repository/wallmart-snapshot/</url> -->
 	    </snapshotRepository>
 	    
 	</distributionManagement>
