@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>pavan releses nexus repositor</name>
-	      <url>http://52.66.245.101:8081/repository/wallmart-release/</url>
+	      <url>http://44.211.79.230:8081/repository/wallmart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>pavan snapshot nexus repository </name>
-	      <url>http://52.66.245.101:8081/repository/wallmart-snapshot/</url>
+	      <url>http://44.211.79.230:8081/repository/wallmart-snapshort/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
